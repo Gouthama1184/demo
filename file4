@@ -1,0 +1,12 @@
+sudo su
+ifcinfig
+ifcinfig -i
+who
+whoami
+whereis
+which
+man
+tar -xvf
+tar -cvf
+grep
+amand &
